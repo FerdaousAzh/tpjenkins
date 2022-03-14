@@ -9,11 +9,12 @@
 // - modify it via the UI (e.g. via about:config in the browser); or
 // - set it within a user.js file in your profile.
 
+user_pref("accessibility.typeaheadfind.flashBar", 0);
 user_pref("app.normandy.first_run", false);
 user_pref("app.normandy.migrationsApplied", 10);
 user_pref("app.normandy.user_id", "c15fdea0-6380-4d19-815e-d791a3212ffd");
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1647246123);
-user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1647257854);
+user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1647261463);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1647245281);
 user_pref("app.update.lastUpdateTime.region-update-timer", 1647246363);
 user_pref("app.update.lastUpdateTime.rs-experiment-loader-timer", 1647245977);

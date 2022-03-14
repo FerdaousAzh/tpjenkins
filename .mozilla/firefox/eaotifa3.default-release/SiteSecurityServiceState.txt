@@ -1,4 +1,5 @@
 cdn.polyfill.io^partitionKey=%28http%2Copenclassrooms.com%29:HSTS	0	19065	1678796697746,1,1,2
+www.google-analytics.com^partitionKey=%28http%2Caskcodez.com%29:HSTS	0	19065	1658147662711,1,1,2
 stats.g.doubleclick.net^partitionKey=%28http%2Cliquidweb.com%29:HSTS	0	19065	1658134468932,1,1,2
 accounts.firefox.com:HSTS	0	19065	1678780897172,1,1,2
 www.reddit.com^partitionKey=%28http%2Csimplilearn.com%29:HSTS	0	19065	1662800760824,1,1,2
@@ -55,7 +56,7 @@ id5-sync.com^partitionKey=%28http%2Cdevstory.net%29:HSTS	0	19065	1710332375134,1
 stats.g.doubleclick.net^partitionKey=%28http%2Caskubuntu.com%29:HSTS	0	19065	1658142152515,1,1,2
 static.criteo.net^partitionKey=%28http%2Citsfoss.com%29:HSTS	0	19065	1678783377564,1,0,2
 askubuntu.com^partitionKey=%28http%2Caskubuntu.com%29:HSTS	0	19065	1662807750821,1,0,2
-www.googletagmanager.com^partitionKey=%28http%2Cgit-scm.com%29:HSTS	0	19065	1678783229034,1,1,2
+www.googletagmanager.com^partitionKey=%28http%2Cgit-scm.com%29:HSTS	0	19065	1678797279544,1,1,2
 www.googletagmanager.com^partitionKey=%28http%2Cliquidweb.com%29:HSTS	0	19065	1678784067224,1,1,2
 q.quora.com^partitionKey=%28http%2Csimplilearn.com%29:HSTS	0	19065	1710320753561,1,1,2
 match.prod.bidr.io^partitionKey=%28http%2Clinuxize.com%29:HSTS	0	19065	1649840916696,1,1,2
@@ -67,7 +68,7 @@ fonts.googleapis.com^partitionKey=%28http%2Cyoutube.com%29:HSTS	0	19065	16787825
 www.google-analytics.com^partitionKey=%28http%2Ckaizendo.fr%29:HSTS	0	19065	1658141470475,1,1,2
 dnacdn.net^partitionKey=%28http%2Clinuxize.com%29:HSTS	0	19065	1678788254010,1,0,2
 alive.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19065	1678796392316,1,0,2
-incoming.telemetry.mozilla.org:HSTS	0	19065	1678796682767,1,0,2
+incoming.telemetry.mozilla.org:HSTS	0	19065	1678797237358,1,0,2
 dmp.adform.net^partitionKey=%28http%2Clinuxize.com%29:HSTS	0	19065	1678788287161,1,1,2
 www.googletagmanager.com^partitionKey=%28http%2Cdigitalocean.com%29:HSTS	0	19065	1678791827281,1,1,2
 gum.criteo.com^partitionKey=%28http%2Cdeveloppez.net%29:HSTS	0	19065	1678791212109,1,0,2
@@ -124,7 +125,8 @@ clc.stackoverflow.com^partitionKey=%28http%2Caskubuntu.com%29:HSTS	0	19065	16498
 sp.analytics.yahoo.com^partitionKey=%28http%2Csimplilearn.com%29:HSTS	0	19065	1678784757343,1,0,2
 github.githubassets.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19065	1678796314467,1,0,2
 stats.g.doubleclick.net^partitionKey=%28http%2Csimplilearn.com%29:HSTS	0	19065	1658135144995,1,1,2
-www.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	0	19065	1678796785588,1,0,2
+mc.yandex.ru^partitionKey=%28http%2Caskcodez.com%29:HSTS	0	19065	1678797265969,1,0,2
+www.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	0	19065	1678797277982,1,0,2
 gem.gbc.criteo.com^partitionKey=%28http%2Citsfoss.com%29:HSTS	0	19065	1678784029765,1,0,2
 warp.media.net^partitionKey=%28http%2Clinuxize.com%29:HSTS	0	19065	1647854525460,1,0,2
 clc.stackoverflow.com^partitionKey=%28http%2Cstackoverflow.com%29:HSTS	0	19065	1649852585262,1,0,2
@@ -144,6 +146,7 @@ stackpath.bootstrapcdn.com^partitionKey=%28http%2Cjenkins.io%29:HSTS	0	19065	167
 cdn.id5-sync.com^partitionKey=%28http%2Cdevstory.net%29:HSTS	0	19065	1710332347312,1,1,2
 dmp.adform.net^partitionKey=%28http%2Citsfoss.com%29:HSTS	0	19065	1678784041381,1,1,2
 cdn.ampproject.org^partitionKey=%28http%2Ccommentcamarche.net%29:HSTS	0	19065	1678783364458,1,1,2
+www.googletagmanager.com^partitionKey=%28http%2Caskcodez.com%29:HSTS	0	19065	1678797261203,1,1,2
 pixel.tapad.com^partitionKey=%28http%2Csimplilearn.com%29:HSTS	0	19065	1678784760162,1,0,2
 onetag-sys.com^partitionKey=%28http%2Citsfoss.com%29:HSTS	0	19065	1662800785524,1,0,2
 cdn.cookielaw.org^partitionKey=%28http%2Caskubuntu.com%29:HSTS	0	19065	1678791420631,1,1,2
@@ -160,6 +163,7 @@ api.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19065	1678796392021,1
 location.services.mozilla.com:HSTS	0	19065	1678780896377,1,1,2
 adx.adform.net^partitionKey=%28http%2Citsfoss.com%29:HSTS	0	19065	1678784785642,1,1,2
 aus5.mozilla.org:HSTS	0	19065	1678782123843,1,0,2
+fonts.googleapis.com^partitionKey=%28http%2Caskcodez.com%29:HSTS	0	19065	1678797266956,1,0,2
 github.githubassets.com^partitionKey=%28http%2Cgithubassets.com%29:HSTS	0	19065	1678796719836,1,0,2
 linuxize-com.disqus.com^partitionKey=%28http%2Clinuxize.com%29:HSTS	0	19065	1647252544086,1,1,2
 cdn.optimizely.com^partitionKey=%28http%2Cdigitalocean.com%29:HSTS	0	19065	1663023821134,1,0,2
@@ -232,6 +236,6 @@ cdn.id5-sync.com^partitionKey=%28http%2Citsfoss.com%29:HSTS	0	19065	171031936559
 cdn.id5-sync.com^partitionKey=%28http%2Ccommentcamarche.net%29:HSTS	0	19065	1710322881248,1,1,2
 pix.eu.criteo.net^partitionKey=%28http%2Clinuxize.com%29:HSTS	0	19065	1678785343171,1,0,2
 www.googletagmanager.com^partitionKey=%28http%2Ccommentcamarche.net%29:HSTS	0	19065	1678786873009,1,1,2
-www.google-analytics.com^partitionKey=%28http%2Cgit-scm.com%29:HSTS	0	19065	1658133629927,1,1,2
+www.google-analytics.com^partitionKey=%28http%2Cgit-scm.com%29:HSTS	0	19065	1658147680425,1,1,2
 www.google-analytics.com^partitionKey=%28http%2Cjenkins.io%29:HSTS	0	19065	1658142173448,1,1,2
 www.google-analytics.com^partitionKey=%28http%2Cdigitalocean.com%29:HSTS	0	19065	1678791825023,1,1,2
